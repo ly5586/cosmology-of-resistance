@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ly5586.github.io/cosmology-of-resistance/sitemap.xml
